@@ -54,8 +54,8 @@ Link to your sub-projects here. Clone the [sub-project repo](https://github.com/
 
 Link to your Trello boards here:
 
-* [Overview](https://trello.com/b/dCprmY8R/prof-dev-team)
-* Discussions
+* Overview
+* (Discussions) (https://trello.com/b/x07nLpeb/discussions)
 * User Stories
 * Investigations
 * Implementations
